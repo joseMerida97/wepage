@@ -1,10 +1,10 @@
-**Web Project with Dockerfile and Gitflow**
+**Web Project with Dockerfile and Gitflow**  
 This repository contains a web page along with an integrated Dockerfile using the Gitflow methodology for collaborative development.
 
 **Objective**
 The main objective of this project is to streamline the development and deployment of the web application in Docker containers, ensuring consistency in the runtime environment.
 
-**Docker Setup**
+**Docker Setup**  
 The Dockerfile contains the necessary instructions to build the Docker image of the application. Make sure you have Docker installed and configured in your development environment before proceeding.
 
 To build the image, execute the following command in the project's root directory:
