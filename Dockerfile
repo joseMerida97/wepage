@@ -10,6 +10,3 @@ COPY nginx.conf /etc/nginx/sites-enabled/
 EXPOSE 80
 
 CMD ["nginx", "-g", "daemon off;"]
-
-# docker build -t ubuntu-nginx . 
-# docker run -d -p 8080:80 ubuntu-nginx
